@@ -1,6 +1,22 @@
 # Sistema SAP
-📜Página feita em HTML, CSS e JavaScript.
-<br> <br>
+📜 Esta página foi criada com o intuito de explicar o que é o Sistema SAP, que é o sistema usado pela empresa EPI-USE Brasil, onde estou participando de um processo seletivo em que a primeira etapa é:
+<br>
+
+### 1) Que você explique para nós: O QUE É SAP?
+
+Mostre para nós suas habilidades, pois sua resposta pode ser no formato que preferir (texto, infográfico, gráfico, diagrama, desenho, mapa mental e etc):
+
+- Word (máximo 1 página)
+- PDF (máximo 1 página)
+- Excel
+- Video (máximo 2 minutos)
+- Html
+- Power Point (máximo 1 página)
+- Texto/Infográfico e etc de próprio punho (máximo 1 página).
+
+<br> 
+Escolhi explicar o que é SAP através de uma página HTML, e esse foi o resultado:
+
  ## O que é?
 ![age](https://github.com/marioliver7/teste-sistemaSAP/blob/main/assets/Captura%20de%20tela%202022-01-05%20201559.png)
 
