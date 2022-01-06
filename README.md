@@ -32,11 +32,7 @@ Escolhi explicar o que é SAP através de uma página HTML, e esse foi o resulta
 ## A SAP foi uma startup?
 ![age](https://github.com/marioliver7/teste-sistemaSAP/blob/main/assets/Captura%20de%20tela5%202022-01-05%20210413.png)
 
-### 🧮 Sobre
-<br>
-Página feita para explicar o que é o sistema SAP, curiosidades e funcionalidade.
-
-### ✨ Tecnologias Usadas 
+### ✨ Tecnologias utilizadas: 
 <br>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
