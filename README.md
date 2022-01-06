@@ -10,6 +10,12 @@
 ## Software da SAP
 ![age](https://github.com/marioliver7/teste-sistemaSAP/blob/main/assets/Captura%20de%20tela3%202022-01-05%20205913.png)
 
+## O que é o software ERP?
+![age](https://github.com/marioliver7/teste-sistemaSAP/blob/main/assets/Captura%20de%20tela4%202022-01-05%20210343.png)
+
+## A SAP foi uma startup?
+![age](https://github.com/marioliver7/teste-sistemaSAP/blob/main/assets/Captura%20de%20tela5%202022-01-05%20210413.png)
+
 ### 🧮 Sobre
 <br>
 Página feita para explicar o que é o sistema SAP, curiosidades e funcionalidade.
